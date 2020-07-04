@@ -1,0 +1,32 @@
+{
+  "name": "vuex-crosstab",
+  "version": "1.0.0",
+  "description": "CrossTab syncs Vuex state across same-origin tabs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "files": [
+    "index.js",
+    "README.md",
+    "LICENSE"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/james2doyle/vuex-crosstab.git"
+  },
+  "keywords": [
+    "vuex",
+    "state",
+    "store",
+    "sync",
+    "tabs",
+    "origin"
+  ],
+  "author": "James Doyle",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/james2doyle/vuex-crosstab/issues"
+  },
+  "homepage": "https://github.com/james2doyle/vuex-crosstab#readme"
+}
