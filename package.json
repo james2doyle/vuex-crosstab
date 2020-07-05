@@ -1,6 +1,6 @@
 {
   "name": "vuex-crosstab",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "CrossTab syncs Vuex state across same-origin tabs",
   "main": "index.js",
   "scripts": {
